@@ -1,1 +1,4 @@
-from utils import functions
+from utils.functions import hello
+
+
+hello()
