@@ -5,5 +5,6 @@ setup(
     version='0.0.1',
     url='git@github.com:shimonport/utils.git',
     author='Shimon Port',
-    packages=['utils']
+    packages=['utils'],
+    install_requires=['requests']
 )
