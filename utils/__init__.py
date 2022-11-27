@@ -1,3 +1,1 @@
-from functions import hello
-
-hello()
+import functions
